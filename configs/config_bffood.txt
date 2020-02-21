@@ -1,0 +1,5 @@
+Driver={ODBC Driver 17 for SQL Server}
+dbservername=bffoodserver
+dbname=bffooddb
+dbuser=triplealpha
+dbpassword=Escrav1tude!

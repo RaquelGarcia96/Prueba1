@@ -1,0 +1,5 @@
+Driver={ODBC Driver 17 for SQL Server}
+dbservername=projectham
+dbname=ham-app 
+dbuser=ham
+dbpassword=Q1w2e3r4!
